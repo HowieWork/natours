@@ -1,0 +1,8 @@
+node_modules
+.prettierrc
+.eslintrc.json
+build
+npm-debug.log
+config.env
+.env
+.DS_Store
