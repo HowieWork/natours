@@ -48,6 +48,8 @@ const connectSrcUrls = [
   'https://a.tiles.mapbox.com/',
   'https://b.tiles.mapbox.com/',
   'https://events.mapbox.com/',
+  'https://bundle.js:*',
+  'ws://127.0.0.1:*/',
 ];
 const fontSrcUrls = ['fonts.googleapis.com', 'fonts.gstatic.com'];
 app.use(

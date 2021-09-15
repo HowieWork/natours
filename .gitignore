@@ -1,8 +1,12 @@
-node_modules
+node_modules/
 .prettierrc
 .eslintrc.json
-build
+build/
 npm-debug.log
 config.env
 .env
 .DS_Store
+
+# Parcel related files
+dist/
+.cache/
