@@ -89,15 +89,15 @@ module.exports = (err, req, res, next) => {
     sendErrorDev(err, req, res);
   } else if (process.env.NODE_ENV === 'production') {
     let error = { ...err };
-    console.log('--------------------------------');
-    console.log(error);
-    console.log('---------------');
-    console.log(error.name, error.message);
-    console.log('---------------');
-    console.log(err);
-    console.log('---------------');
-    console.log(err.name, err.message, err.statusCode);
-    console.log('--------------------------------');
+    // console.log('--------------------------------');
+    // console.log(error);
+    // console.log('---------------');
+    // console.log(error.name, error.message);
+    // console.log('---------------');
+    // console.log(err);
+    // console.log('---------------');
+    // console.log(err.name, err.message, err.statusCode);
+    // console.log('--------------------------------');
 
     error.name = err.name;
     error.message = err.message;
