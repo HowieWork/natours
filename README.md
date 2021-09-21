@@ -10,8 +10,6 @@ Tours in North America | [**DEMO**](https://natours-howie.herokuapp.com/)
 
 Node.js, Express, MongoDB, Mongoose
 
-<p>&nbsp;</p>
-
 ## FEATURES
 
 - RESTful API for tours in North America
