@@ -16,3 +16,7 @@ Node.js, Express, MongoDB, Mongoose
 - User sign up, log in, password reset \*Complete modern authentication with JWT
 - Accepting credit card payments with Stripe \*Complete integration on the back-end and front-end
 - Uploading files and image processing
+
+## UPDATES
+
+- 11/12/2022 RE-deploy using [Render](https://render.com/)
