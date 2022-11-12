@@ -4,7 +4,7 @@
 
 ## BRIEF
 
-Tours in North America | [**DEMO**](https://natours-howie.herokuapp.com/)
+Tours in North America | [**DEMO**](https://natours-wv6y.onrender.com/)
 
 ## KEYWORDS
 
